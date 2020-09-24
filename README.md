@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello world, 👋
+I'm Andrew, software developer. 
 
-<!--
-**AndrewBennet/AndrewBennet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in London at [Symplectic](https://symplectic.co.uk/).
 
-Here are some ideas to get you started:
+On the side I'm working on an iOS app [Reading List](https://readinglist.app/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://twitter.com/AndrewBennet" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/AndrewBennet/AndrewBennet/master/twitter.svg" alt="Twitter" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/AndrewBennet/AndrewBennet/master/stackoverflow.svg" alt="StackOverflow" height="20" width="20" />
+</a>
+<a href="https://www.linkedin.com/in/andrew-bennet/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/AndrewBennet/AndrewBennet/master/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
+</p>
